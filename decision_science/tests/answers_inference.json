@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "\nÇa a l'air d'avoir un leger effet positif sur la criminalité\n",
+    "T_STAT": "\nt-statistic est le ratio du coef sur l'erreur standard\n",
+    "P_VALUE": "\nc'est la probabilité que l'observation soit uniquement due à la chance.\nnous avons ici 12,8% de chance que la correlation entre l'age et la criminalité soit uniquement due au hasard\n",
+    "INCREASE": "\nle nombre total d'incident diminue de 5.180% quand le pourcentage de famille composé d'un couple marié augmente de 1%\n",
+    "LIMITATIONS": "\nL'explication de ce score anormalement haut est que le model overfit\n"
+}
